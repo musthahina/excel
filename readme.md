@@ -1,4 +1,4 @@
-# Excel -Project \
+# Excel -Project 
 Insights \
 1.Most bike Purchased Region is 'North America'.\
 2.Occupation with most bike purchases is 'Professional'.\
