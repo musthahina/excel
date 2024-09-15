@@ -1,6 +1,6 @@
-# Excel -Project \n
-Insights \n
-Most bike Purchased Region is 'North America'.
+# Excel -Project < br / >
+Insights < br / >
+Most bike Purchased Region is 'North America'.< br / >
 Occupation with most bike purchases is 'Professional'.
 Education level with the highest number of bike purchases: 'Bachelor's degree holders'.
 Most Common Commute Distance is '0-1 miles'.
