@@ -1,7 +1,7 @@
 # Bike Sales Analysis Project
 This project focuses on analyzing bike sales data using Microsoft Excel. The dataset includes information about customer demographics, purchasing behavior, and other relevant factors, allowing for meaningful insights into sales trends. The project demonstrates skills in data cleaning, data visualization, and dashboard creation.
 
-Insights \
+## Insights \
 1.Most bike Purchased Region is 'North America'.\
 2.Occupation with most bike purchases is 'Professional'.\
 3.Education level with the highest number of bike purchases: 'Bachelor's degree holders'.\
