@@ -1,5 +1,4 @@
-# Excel -Project 
-🚴 Bike Sales Analysis Project
+# Bike Sales Analysis Project
 This project focuses on analyzing bike sales data using Microsoft Excel. The dataset includes information about customer demographics, purchasing behavior, and other relevant factors, allowing for meaningful insights into sales trends. The project demonstrates skills in data cleaning, data visualization, and dashboard creation.
 
 Insights \
