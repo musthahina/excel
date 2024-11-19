@@ -21,6 +21,34 @@ The dataset is stored in an Excel file named Bike Sales Data.xlsx. It consists o
 * Age Bracket: Categorized age ranges.
 * Purchased Bike: Whether the customer purchased a bike (Yes/No).
 
+## Project Highlights
+This project demonstrates the following key components:
+
+1. Data Cleaning and Preprocessing 
+* Removed duplicates and handled missing values.
+* Standardized categorical fields (e.g., Gender, Education).
+* Ensured data types are accurate (e.g., numeric fields like Income, Cars, and Age).
+* Derived columns for better segmentation (e.g., Income Brackets, Age Groups).
+2. Pivot Tables and Charts 
+* Created pivot tables for uncovering trends and patterns:
+* Gender-wise and Age Bracket-wise bike purchases.
+* Region-wise sales analysis.
+* Correlation between Income and bike purchases.
+* Commute Distance’s impact on sales.
+* Developed insightful charts : Pie, bar, column, and scatter plots to visualize the data.
+3. Interactive Dashboard (10 Marks)
+Designed a sales analysis dashboard with:
+* A summary of key metrics.
+* Interactive slicers for filtering by Gender, Region, and Age Bracket.
+5 charts, including:
+* Bike Purchases by Gender (Pie Chart).
+* Sales by Income Bracket (Column Chart).
+* Bike Purchases vs. Commute Distance (Scatterplot).
+* Region-wise Bike Purchases (Bar Chart).
+* Bike Purchases by Age Bracket (Heatmap).
+Enhanced the dashboard with clean formatting and user-friendly navigation.
+
+
 ## Insights 
 1.Most bike Purchased Region is 'North America'.\
 2.Occupation with most bike purchases is 'Professional'.\
