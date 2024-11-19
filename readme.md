@@ -37,7 +37,7 @@ This project demonstrates the following key components:
 * Commute Distance’s impact on sales.
 * Developed insightful charts : Pie, bar, column, and scatter plots to visualize the data.
 3. Interactive Dashboard 
-Designed a sales analysis dashboard with:
+* Designed a sales analysis dashboard with:
 * A summary of key metrics.
 * Interactive slicers for filtering by Gender, Region, and Age Bracket.
 5 charts, including:
