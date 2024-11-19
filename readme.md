@@ -1,5 +1,25 @@
 # Bike Sales Analysis Project
+
+## Description
 This project focuses on analyzing bike sales data using Microsoft Excel. The dataset includes information about customer demographics, purchasing behavior, and other relevant factors, allowing for meaningful insights into sales trends. The project demonstrates skills in data cleaning, data visualization, and dashboard creation.
+
+## Dataset Overview
+The dataset is stored in an Excel file named Bike Sales Data.xlsx. It consists of the following columns:
+
+* ID: Unique identifier for each customer.
+* Marital Status: Customer’s marital status (e.g., Single, Married).
+* Gender: Customer’s gender (e.g., Male, Female).
+* Income: Customer’s annual income.
+* Children: Number of children in the household.
+* Education: Highest level of education attained by the customer.
+* Occupation: Customer’s occupation category.
+* Home Owner: Whether the customer owns a home.
+* Cars: Number of cars owned by the customer.
+* Commute Distance: Distance the customer travels to work.
+* Region: Geographic region of the customer.
+* Age: Customer’s age.
+* Age Bracket: Categorized age ranges.
+* Purchased Bike: Whether the customer purchased a bike (Yes/No).
 
 ## Insights 
 1.Most bike Purchased Region is 'North America'.\
