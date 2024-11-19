@@ -48,6 +48,11 @@ This project demonstrates the following key components:
 * Bike Purchases by Age Bracket (Heatmap).
 Enhanced the dashboard with clean formatting and user-friendly navigation.
 
+## Key Learnings
+* Mastered Excel's data cleaning tools for handling real-world datasets.
+* Utilized pivot tables and charts for uncovering insights.
+* Developed a professional dashboard for summarizing and presenting data.
+
 
 ## Insights 
 1.Most bike Purchased Region is 'North America'.\
