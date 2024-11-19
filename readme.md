@@ -36,7 +36,7 @@ This project demonstrates the following key components:
 * Correlation between Income and bike purchases.
 * Commute Distance’s impact on sales.
 * Developed insightful charts : Pie, bar, column, and scatter plots to visualize the data.
-3. Interactive Dashboard (10 Marks)
+3. Interactive Dashboard 
 Designed a sales analysis dashboard with:
 * A summary of key metrics.
 * Interactive slicers for filtering by Gender, Region, and Age Bracket.
