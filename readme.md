@@ -41,11 +41,11 @@ This project demonstrates the following key components:
 * A summary of key metrics.
 * Interactive slicers for filtering by Gender, Region, and Age Bracket.
 5 charts, including:
-* Bike Purchases by Gender (Pie Chart).
-* Sales by Income Bracket (Column Chart).
-* Bike Purchases vs. Commute Distance (Scatterplot).
-* Region-wise Bike Purchases (Bar Chart).
-* Bike Purchases by Age Bracket (Heatmap).
+* Bike Purchases by Gender.
+* Sales by Income Bracket.
+* Bike Purchases vs. Maritial status.
+* Region-wise Bike Purchases.
+* Bike Purchases across different occupation.
 Enhanced the dashboard with clean formatting and user-friendly navigation.
 
 ## Key Learnings
